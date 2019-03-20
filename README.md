@@ -23,5 +23,11 @@ data
                             ----------InSitu
                             ----------Invasive
                             ----------Normal
+models.py
+utils.py
+evaluations.py
+...........
+..........
+checkpoint_dirs
    
 ```
